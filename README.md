@@ -5,7 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/virendra1516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="virendra1516" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/virendra-pawar-0b0483299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virendra-pawar-0b0483299" height="30" width="40" /></a>
+<a href="https://codesandbox.com/virendra1516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="virendra1516" height="30" width="40" /></a>
 <a href="https://instagram.com/virendra1516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virendra1516" height="30" width="40" /></a>
 </p>
 
